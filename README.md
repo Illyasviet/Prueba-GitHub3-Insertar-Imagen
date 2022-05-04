@@ -3,4 +3,4 @@
 
  ** Insertaremos una imagen
 
- ![MayFourth](img/descarga.png)
+ ![MayFourth](img/descarga.jpg)
